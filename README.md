@@ -1,7 +1,7 @@
 # ScheduleMonkey
 
 ## About
-This is going to be a basic online scheduling tool primarily for students to plan their weeks. 
+This is going to be a basic online scheduling tool primarily for students to plan their weeks. With Zoom classes and online/hybrid education I've noticed it's super helpful to keep links (email, student portal, zoom class links, ect.) centralized to avoid confusion and anxiety over school. This app will allow you to easily create an account and add your classes so you can have all of your information in one place. Importantly, I feel I can expand on this and add more functionality as I see fit.
 
 ## Why
 I think it's important to keep up on the basics of software development and to learn new things along the way. This is a simple application in theory, but follow the steps to release a solid functioning app is more difficult than it sounds. This will require databasing, front end design, and sketching (UI diagrams, ER models, ect.). Also, this type of stuff isn't necessarily covered in my course work so I am going to be expirimenting with things I have not used before.
