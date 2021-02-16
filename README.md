@@ -12,6 +12,6 @@ I'm attaching a simple ER diagram below so other students might get an idea of w
 
 
 ## Tools [tentative]
-1. Framworks: React.js (potentially django) I might host this on AWS so that may change things
+1. Frameworks: React.js (potentially django) I might host this on AWS so that may change things
 2. Frontend: JS, CSS, HTML
 2. Backend: sqllite
